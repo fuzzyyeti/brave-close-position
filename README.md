@@ -1,13 +1,13 @@
-Running on dev server:
+Install packages:
+### `yarn install`
 
+Run the dev server:
 ### `yarn start`
-
-### `npm start`
 
 How to close a position:
 
 1) Create a whirlpools position using the UI in orca.so with the Brave Wallet
-2) Run the test application and connect with the same wallet
+2) Open the test application at http://localhost:3000
 3) Find the position address using https://solscan.io/
   - Go to the NFT mint address for your position
   - navigate to the first signature
