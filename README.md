@@ -12,5 +12,7 @@ How to close a position:
   - Go to the NFT mint address for your position
   - navigate to the first signature
   - the "position" will be near the beginning of the "Instruction Details" section
+    ![demo](public/position.png)
 4) Paste the position address into the UI
+   ![paste](public/demo.png)
 5) Press the Close Position button and confirm in your wallet
